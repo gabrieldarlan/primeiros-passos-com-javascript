@@ -44,4 +44,5 @@ if (idadeComprador >= 18 && temPassagemComprada) {
 // console.log(idadeComprador < 18);
 // console.log(idadeComprador <= 18);
 // console.log(idadeComprador >= 18);
+
 // console.log(idadeComprador == 18);
